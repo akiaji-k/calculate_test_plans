@@ -1,4 +1,4 @@
-# calculate_test_plans
+# calculate_test_plans_esapi_v16_1
 
 現在のコース内の未計算プラン全ての線量計算を行うためのスクリプトです。
 
